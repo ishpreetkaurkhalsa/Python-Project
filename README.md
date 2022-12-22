@@ -1,4 +1,4 @@
-# Python-Project
+# Marketing and Sales System
 The project is sales and marketing system.
 
 
